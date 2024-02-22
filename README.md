@@ -15,19 +15,19 @@ This is the search page:
 
 This is the function page:
 
-<img src="images/function.png" alt="Function Page" height="200" />
+<img src="images/function.png" alt="Function Page" height="300" />
 
 This is the map display page:
 
-<img src="images/mapdisplay.png" alt="Map Display" height="200" />
+<img src="images/mapdisplay.png" alt="Map Display" height="300" />
 
 This is the search by map page:
 
-<img src="images/searchbymap.png" alt="Search by Map" height="200" />
+<img src="images/searchbymap.png" alt="Search by Map" height="300" />
 
 This is the user comment page:
 
-<img src="images/comment.png" alt="User Review" height="200" />
+<img src="images/comment.png" alt="User Review" height="300" />
 
 ## How to run
 
