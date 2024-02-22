@@ -3,6 +3,31 @@
 
 This repository contains the frontend code for the Newcastle Tourism project. The frontend is built using HTML, CSS, and React, showcasing a modern web application that provides users with information and services related to tourism in Newcastle.
 
+## UI and App Interface Showcases
+ 
+This is the home page:
+
+<img src="images/homepage.png" alt="Home Page" height="200">
+
+This is the search page:
+
+<img src="images/search.png" alt="Search Page" height="200" />
+
+This is the function page:
+
+<img src="images/function.png" alt="Function Page" height="200" />
+
+This is the map display page:
+
+<img src="images/mapdisplay.png" alt="Map Display" height="200" />
+
+This is the search by map page:
+
+<img src="images/searchbymap.png" alt="Search by Map" height="200" />
+
+This is the user comment page:
+
+<img src="images/comment.png" alt="User Review" height="200" />
 
 ## How to run
 
