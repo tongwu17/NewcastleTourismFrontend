@@ -1,7 +1,7 @@
 
 # Newcastle Tourism Frontend
 
-This repository contains the frontend code for the Newcastle Tourism project. The frontend is built using HTML, CSS, and React, showcasing a modern web application that provides users with information and services related to tourism in Newcastle.
+This is the frontend code for the Newcastle Tourism project. The frontend is built using HTML, CSS, and React, showcasing a modern web application that provides users with information and services related to tourism in Newcastle.
 Refer to the link https://github.com/tongwu17/NewcastleTourismBackend, which is the backend for this project.
 
 ## UI and App Interface Showcases
